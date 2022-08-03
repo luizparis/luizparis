@@ -7,12 +7,13 @@
 luizparis/luizparis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-INED contra evasão escolar 
+<h1>INED contra evasão escolar</h1>
+ 
+ <p>O nosso site tem o objetivo de investir na educação,a ser usado como ponte entre uma pessoa física e/ou uma empresa que tenha interesse em contribuir na luta contra a evasão escolar.</p>
 
-O nosso site tem o objetivo de investir na educação, e ser usado como ponte entre uma pessoa física e/ou uma empresa 
-que tenha interece em contribuir na luta contra a evasão escolar.
+ <p>Como vai funcionar?</p>
 
-Com vai funcionar?
-
-No link abaixo você será encaminhado para um local de atendimento onde terá um espaço para pessoas como você e empresas, poderam 
-nosso projeto e conforme você participa desses trabalhos de doações, irá receber celos de contribuidor 
+ <p>No link abaixo você será encaminhado para um local de atendimento onde terá um espaço para pessoas como você e empresas,
+ lá você tem acesso ao nosso projeto e conforme você participa desses trabalhos de doações, irá receber celos de contribuidor.</p>
+ 
+file:///tmp/guest-as5jsr/%C3%81rea%20de%20Trabalho/index.HTML
